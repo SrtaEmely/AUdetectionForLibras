@@ -165,7 +165,7 @@ x_l_train1 = np.load('.../Experimento_final/Data_annotations/x_l_HM.npy')
 x_l_train2 = np.load('.../Experimento_final/Data_annotations/x_l_silfa.npy')
 #
 y_l = np.load('.../data_annotations/y_l_disfa.npy')
-y_l_train1 = np.load('.../Experimento_final/data_annotations/x_l_HM.npy')
+y_l_train1 = np.load('.../Experimento_final/data_annotations/y_l_HM.npy')
 y_l_train2 = np.load('.../Experimento_final/data_annotations/y_l_silfa.npy')
 ##############################################################################
 ##############################################################################
